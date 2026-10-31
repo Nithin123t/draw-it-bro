@@ -21,5 +21,8 @@
     "socket.io-client": "latest",
     "vite": "latest"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "engines": {
+    "node": ">=20.0.0"
+  }
 }
